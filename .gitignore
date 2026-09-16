@@ -1,0 +1,21 @@
+# Backend
+backend/node_modules/
+backend/database.sqlite
+backend/database.sqlite-shm
+backend/database.sqlite-wal
+backend/.env
+backend/fix_demo.js
+backend/test_loan.js
+
+# Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/android/
+mobile/ios/
+mobile/.env
+
+# General
+.DS_Store
+Thumbs.db
+*.log
