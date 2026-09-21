@@ -54,7 +54,7 @@ export default function ServerConfigModal({ visible, onClose, onSaved }) {
 
           <TouchableOpacity style={styles.resetBtn} onPress={handleReset}>
             <Ionicons name="refresh-outline" size={13} color={THEME.colors.accent} />
-            <Text style={styles.resetText}>Restablecer IP actual (10.15.10.50:3000)</Text>
+            <Text style={styles.resetText}>Restablecer IP actual (10.206.198.97:3000)</Text>
           </TouchableOpacity>
 
           <View style={styles.actions}>
